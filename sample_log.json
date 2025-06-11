@@ -1,0 +1,3 @@
+{"session_id": "abc123", "user_id": "user01", "page": "/home", "timestamp": "2025-06-08T12:30:00Z"}
+{"session_id": "abc123", "user_id": "user01", "page": "/about", "timestamp": "2025-06-08T12:32:10Z"}
+{"session_id": "xyz789", "user_id": "user02", "page": "/home", "timestamp": "2025-06-08T13:00:00Z"}
